@@ -1,4 +1,5 @@
 # kubernetes-trial
+- refer https://kubectlcheatsheet.com/ for kubectl commands
 - minikube start --driver=docker    //this is to start minikube(install if not present)
 - //create nginx-dep.yaml and nginx-serv.yaml
 - kubectl apply -f nginx-dep.yaml
